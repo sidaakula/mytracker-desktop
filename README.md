@@ -14,7 +14,9 @@ This manual will walk you through everything from the first launch to utilizing 
 Because MyTracker is a portable application, there is no complicated installer! 
 
 1. Go to the **GitHub Releases** page and download the latest **`MyTracker.exe`** file.
-2. Open your **Downloads** folder (or wherever you saved the file) and double-click **`MyTracker.exe`** to run it.
+2. Open your **Downloads** folder, right-click the `MyTracker.exe` file, and select **Copy**.
+3. Create a new, dedicated folder on your computer to store the app (for example, `C:\MyTracker`) and **Paste** the file there.
+4. Double-click the **`MyTracker.exe`** icon to launch the Setup Wizard!
    > [!NOTE]
    > **Windows Defender Warning:** Since this is a brand-new indie app, Windows SmartScreen might pop up saying "Windows protected your PC." 
    > If this happens, click **More info**, and then click **Run anyway**.
