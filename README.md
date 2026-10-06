@@ -46,6 +46,7 @@ Because MyTracker is a portable application, there is no complicated installer!
      > 5. Type "MyTracker" as the app name and click **Create**.
      > 6. Google will give you a 16-letter code (e.g., `abcd efgh ijkl mnop`). Copy and paste that code without spaces into the wizard!
    - The Parent's Email (for notifications)
+   - **Email Whitelist:** (Optional but recommended) Provide a comma-separated list of approved sender emails (like `teacher@school.edu`). If configured, the app will *only* process emails from these senders, ignoring all spam and personal messages!
    - Your preferred AI (Gemini AI, OpenAI, or Ollama) and your API Key.
      > [!TIP]
      > **How to get a Gemini API Key (Free):**
