@@ -33,7 +33,7 @@ Because MyTracker is a portable application, there is no complicated installer!
    > It will automatically install everything and create a "MyTracker" icon in your App Launcher!
 3. **The Setup Wizard:** Since this is your first time opening the app, a friendly 4-step wizard will appear. It will ask for:
    - The Student's Name
-   - A Dedicated Gmail and **App Password**.
+   - A Dedicated Gmail and **App Password** (Optional).
      > [!TIP]
      > **RECOMMENDED SETUP:** We highly recommend creating a brand new Gmail account specifically for this app (e.g., `mytrackersid@gmail.com`). Then, log into your child's real school email and set it to **auto-forward** all incoming emails to this new `mytrackersid@gmail.com` address. This keeps everything perfectly organized!
      
