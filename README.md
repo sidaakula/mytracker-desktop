@@ -20,8 +20,10 @@ Because MyTracker is a portable application, there is no complicated installer!
   > [!NOTE]
   > **Windows Defender Warning:** Since this is a brand-new indie app, Windows SmartScreen might pop up saying "Windows protected your PC." 
   > If this happens, click **More info**, and then click **Run anyway**.
-  >
-  > **Chromebook / Mac Users:** The `.exe` file only works on Windows! If you are using a Chromebook, you must enable Linux (Beta) in your settings, download the source code, open your Linux terminal, and run `./setup_chromebook.sh`.
+  > **Chromebook / Mac Users:** The `.exe` file only works on Windows! If you are using a Chromebook, you must enable Linux (Beta) in your settings, open your Linux terminal, and paste this command:
+  > ```bash
+  > curl -sSL https://raw.githubusercontent.com/sidaakula/mytracker/main/desktop_agent/setup_chromebook.sh | bash
+  > ```
 
 ### 2. The Setup Wizard
 Since this is your first time opening the app, a friendly 4-step wizard will appear. It will ask for:
